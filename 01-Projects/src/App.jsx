@@ -1,10 +1,10 @@
 import React from 'react'
-import BlogPostL from './page/BlogPostL'
+import ProductShowcase from './page/ProductShowcase'
 
 const App = () => {
   return (
     <div>
-      <BlogPostL/>
+      <ProductShowcase/>
     </div>
   )
 }

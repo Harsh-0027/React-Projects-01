@@ -1,10 +1,10 @@
 import React from 'react'
-import ProductShowcase from './page/ProductShowcase'
+import PricingSection from './page/PricingSection'
 
 const App = () => {
   return (
     <div>
-      <ProductShowcase/>
+      <PricingSection/>
     </div>
   )
 }
